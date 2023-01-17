@@ -1,6 +1,6 @@
 # Projects
-## Portfolio Site : 
+All projects are in the website:(add URL here)
 
-## Project 1
+## Project 1 : SED
 
-## Project 2
+## Project 2  : 
