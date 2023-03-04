@@ -2,8 +2,8 @@
 ✔︎ Some project repositories are private.
 ✔︎ Quick view & links here
 
-### 📚Project 1 : 
-✔︎ Realated course name : CSE152B\
+### 📚Data Structure
+✔︎ Course number : CSE100\
 ✔︎ **Decription**\
 ✔︎ **Features & What I learn**\
 ✔︎ **Project or Assignments**\
