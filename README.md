@@ -1,21 +1,23 @@
-# 🎓 My Core Courseworks in University 🎓
-✔︎ Some project repositories are private.
+# 🎓My Core Courseworks in University🎓
+✔︎ Some repositories that contains assignments and exams are private. If you want to access, contact me please:)
 ✔︎ Quick view & links here
 
 ### 📚Data Structure
 ✔︎ Course number : CSE100\
+✔︎ term : \
+✔︎ Course site : \
 ✔︎ **Decription**\
 ✔︎ **Features & What I learn**\
 ✔︎ **Project or Assignments**\
-✔︎ **Repository**\
+✔︎ **Repository**
 
-### 📚Project 2  : 
+### 📚Algorithms
 ✔︎ Realated course name : CSE167\
 ✔︎ **Decription**\
 ✔︎ **Features & What I learn**\
 ✔︎ **Repository**\
 
-### 📚Project 3 : 
+### 📚Deep Learning
 ✔︎ Realated course name : CSE152B\
 ✔︎ **Decription**\
 ✔︎ **Features & What I learn**\
