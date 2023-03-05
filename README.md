@@ -3,6 +3,16 @@
 ✔︎ Quick view & links here
 
 ### 📚Data Structure
+-------------------------
+|Course Number | CSE100 |
+-------------------------
+|Term          | FA20   |
+-------------------------
+|Description  | _~~~~~~ |
+-------------------------
+|Repository   |         |
+-------------------------
+
 ✔︎ Course number : CSE100\
 ✔︎ term : \
 ✔︎ Course site : \
