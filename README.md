@@ -1,8 +1,8 @@
 # 🎓My Core Courseworks in University🎓
+✔︎ Notion : Under making now. Hope to finish soon!
 ✔︎ Some repositories that contains assignments and exams are private. If you want to access, contact me please:)
-✔︎ Notion : 
-✔︎ Overview (toggle)
 
+## Repository Link
 ### 📚Data Structure
 ✔︎ Course number : CSE100\
 ✔︎ term : \
