@@ -1,6 +1,6 @@
 # 🎓My Core Courseworks in University🎓
-✔︎ Notion : Under making now. Hope to finish soon!
-✔︎ Some repositories that contains assignments and exams are private. If you want to access, contact me please:)
+✔︎ Notion : Under making now. Hope to finish soon!\
+✔︎ Some repositories that contains assignments and exams are private. If you want to access, contact me please:)\
 
 ## Repository Link
 ### 📚Data Structure
