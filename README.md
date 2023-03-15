@@ -1,32 +1,25 @@
-# 🎓My Core Courseworks in University🎓
-✔︎ Notion : https://www.notion.so/black-is-cute/Ellie-Jiyoung-An-00a550cc0b794f79a6e94fb1a3e9fa0f?pvs=4
+# 🎓Projects in University🎓
+✔︎ All coureworks that I took in school are listed in "Notion : https://www.notion.so/black-is-cute/Ellie-Jiyoung-An-00a550cc0b794f79a6e94fb1a3e9fa0f?pvs=4" with brief summary. 
  (Under construction. Some categories are not shown yet. Hope to finish soon!)\
 ✔︎ Some repositories that contains assignments and exams are private. If you want to access, contact me please:)\
 
-## Repository Link
-### 📚Data Structure
-✔︎ Course number : CSE100\
-✔︎ term : \
-✔︎ Course site : \
-✔︎ Decription : \
-✔︎ Project or Assignments : \
-✔︎ Repository
+### MOTION FORECASTING MODELS FOR SELF-DRIVING
+✔︎ Course: CSE151B \
+✔︎ term: \
+✔︎ Repository: 
 
 ### 📚Algorithms
-✔︎ Realated course name : CSE167\
-✔︎ **Decription**\
-✔︎ **Features & What I learn**\
-✔︎ **Repository**\
+✔︎ Course: CSE100\
+✔︎ term: \
+✔︎ Repository: 
 
 ### 📚Deep Learning
-✔︎ Realated course name : CSE152B\
-✔︎ **Decription**\
-✔︎ **Features & What I learn**\
-✔︎ **Repository**\
+✔︎ Course: CSE100\
+✔︎ term: \
+✔︎ Repository: 
 
 ### 📚Project 4 : 
-✔︎ Realated course name : CSE152B\
-✔︎ **Decription**\
-✔︎ **Features & What I learn**\
-✔︎ **Repository**\
+✔︎ Course: CSE100\
+✔︎ term: \
+✔︎ Repository: 
 
