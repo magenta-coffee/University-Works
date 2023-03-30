@@ -8,10 +8,10 @@
 ✔︎ term: \
 ✔︎ Repository: 
 
-### 📚Algorithms
-✔︎ Course: CSE100\
-✔︎ term: \
-✔︎ Repository: 
+### Music Genre Classification From Lyrics
+✔︎ Course: CSE158 (Recommender System & Web Mining)\
+✔︎ [View the project]()
+✔︎ Repository: https://github.com/cse158-fa22-team-pushystrokers/a2
 
 ### 📚Deep Learning
 ✔︎ Course: CSE100\
