@@ -10,10 +10,11 @@
 ✔︎ [View the project](./Reports/Music%20Genre%20from%20Lyrics.pdf)\
 ✔︎ [Repository](https://github.com/cse158-fa22-team-pushystrokers/a2)
 
-### Music Genre Classification From Lyrics
-✔︎ Course: CSE110()\
-✔︎ [View the project](./Reports/Music%20Genre%20from%20Lyrics.pdf)\
-✔︎ [Repository](https://github.com/cse158-fa22-team-pushystrokers/a2)
+### Recipe Management Website
+✔︎ Course: CSE110(Software Engineering)\
+✔︎ [View the project]()\
+✔︎ [Project Video](https://www.youtube.com/watch?v=msWTse9Bz94&t=265s)\
+✔︎ [Repository]()
 
 ### Motion Forecasting Models For Self-Driving
 ✔︎ Course: CSE151B(Deep Learning)\
