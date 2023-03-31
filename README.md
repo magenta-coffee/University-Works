@@ -4,17 +4,17 @@
 ✔︎ Some repositories that contains assignments and exams are private. If you want to access, contact me please:)
 
 
-
+___
 ### Music Genre Classification From Lyrics
 ✔︎ Course: CSE158(Recommender System & Web Mining)\
 ✔︎ [View the project](./Reports/Music%20Genre%20from%20Lyrics.pdf)\
 ✔︎ [Repository](https://github.com/cse158-fa22-team-pushystrokers/a2)
-
+___
 ### Recipe Management Website
 ✔︎ Course: CSE110(Software Engineering)\
 ✔︎ [View the project](https://home.eggcellent.cooking)\
 ✔︎ [Repository](https://github.com/cse110-fa21-group35/cse110-fa21-group35)
-
+___
 ### Motion Forecasting Models For Self-Driving
 ✔︎ Course: CSE151B(Deep Learning)\
 ✔︎ [View the project](./Reports/Motion%20Forecasting%20Models.pdf)\
