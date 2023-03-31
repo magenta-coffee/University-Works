@@ -20,3 +20,4 @@ ___
 ✔︎ [View the project](./Reports/Motion%20Forecasting%20Models.pdf)\
 ✔︎ [Kaggle](https://www.kaggle.com/competitions/cse151b-spring/overview)\
 ✔︎ [Repository](https://github.com/yuyeon/CSE-151B-Final-Project)
+___
