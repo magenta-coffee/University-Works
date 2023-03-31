@@ -15,7 +15,7 @@
 ✔ [View the project](./Reports/Music%20Genre%20from%20Lyrics.pdf)\
 ✔︎ [Repository](https://github.com/cse158-fa22-team-pushystrokers/a2)
 
-### MOTION FORECASTING MODELS FOR SELF-DRIVING
+### Motion Forecasting Models For Self-Driving
 ✔︎ Course: CSE151B(Deep Learning)\
 ✔︎ [View the project](./Reports/Motion%20Forecasting%20Models.pdf)\
 ✔︎ [Kaggle](https://www.kaggle.com/competitions/cse151b-spring/overview)\
