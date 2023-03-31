@@ -12,9 +12,8 @@
 
 ### Recipe Management Website
 ✔︎ Course: CSE110(Software Engineering)\
-✔︎ [View the project]()\
-✔︎ [Project Video](https://www.youtube.com/watch?v=msWTse9Bz94&t=265s)\
-✔︎ [Repository]()
+✔︎ [View the project](https://home.eggcellent.cooking)\
+✔︎ [Repository](https://github.com/cse110-fa21-group35/cse110-fa21-group35)
 
 ### Motion Forecasting Models For Self-Driving
 ✔︎ Course: CSE151B(Deep Learning)\
