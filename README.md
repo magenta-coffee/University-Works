@@ -12,7 +12,7 @@
 
 ### Music Genre Classification From Lyrics
 ✔︎ Course: CSE110()\
-✔ [View the project](./Reports/Music%20Genre%20from%20Lyrics.pdf)\
+✔︎ [View the project](./Reports/Music%20Genre%20from%20Lyrics.pdf)\
 ✔︎ [Repository](https://github.com/cse158-fa22-team-pushystrokers/a2)
 
 ### Motion Forecasting Models For Self-Driving
