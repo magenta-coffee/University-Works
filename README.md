@@ -1,7 +1,7 @@
 # 🎓Projects in University🎓
-✔︎ All coureworks that I took in school are listed in [Notion, I called Blotion](https://www.notion.so/black-is-cute/Ellie-Jiyoung-An-00a550cc0b794f79a6e94fb1a3e9fa0f?pvs=4) with brief summary. 
+✔︎ I have listed all the coursework that I completed in school on Notion, which I named "Blotion," along with brief summaries. Note that the platform is currently under construction, and some categories may not be visible yet. I hope to finish updating it soon!
  (Under construction. Some categories are not shown yet. Hope to finish soon!)\
-✔︎ Some repositories that contains assignments and exams are private. If you want to access, contact me please:)
+✔︎ Some of the repositories containing my assignments and exams are set to private. If you wish to access them, please contact me.
 ___
 ### Music Genre Classification From Lyrics
 ✔︎ Course: CSE158(Recommender System & Web Mining)\
