@@ -1,5 +1,5 @@
 # 🎓Projects in University🎓
-✔︎ I have listed all the coursework that I completed in school on Notion, which I named "Blotion," along with brief summaries. Note that the platform is currently under construction, and some categories may not be visible yet. I hope to finish updating it soon!
+✔︎ I have listed all the coursework that I completed in school on [Notion](), which I named "Blotion," along with brief summaries. Note that the platform is currently under construction, and some categories may not be visible yet. I hope to finish updating it soon!
  (Under construction. Some categories are not shown yet. Hope to finish soon!)\
 ✔︎ Some of the repositories containing my assignments and exams are set to private. If you wish to access them, please contact me.
 ___
